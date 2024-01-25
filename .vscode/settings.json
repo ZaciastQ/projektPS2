@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "wait.h": "c",
+        "in.h": "c",
+        "unistd.h": "c",
+        "inet.h": "c",
+        "ip.h": "c",
+        "func.h": "c",
+        "socket.h": "c",
+        "time.h": "c",
+        "client_func.h": "c"
+    }
+}
