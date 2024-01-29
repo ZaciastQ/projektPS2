@@ -1,7 +1,7 @@
 # System Szkoleniowy
 
 ## Opis Projektu
-Projekt "System Szkoleniowy", wykonany przez Tomasza B i Kamila G , jest systemem do prowadzenia szkoleń online. Projekt został przedstawiony 18.01.2024, a sprawozdanie zostało oddane 25.01.2024.
+Projekt "System Szkoleniowy", jest systemem do prowadzenia szkoleń online. Projekt został przedstawiony 18.01.2024, a sprawozdanie zostało oddane 25.01.2024.
 
 ## Specyfikacja Projektu
 - System obsługuje konta prowadzących oraz uczestników, skalując się od kilku do kilkuset użytkowników w jednym szkoleniu.
@@ -29,5 +29,4 @@ Projekt "System Szkoleniowy", wykonany przez Tomasza B i Kamila G , jest systeme
 
 ## Autorzy
 - Tomasz
-- Kamil
 
